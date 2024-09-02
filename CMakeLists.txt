@@ -10,3 +10,7 @@ add_executable(Ej4 ej4.cpp)
 add_executable(Ej5 ej5.cpp)
 add_executable(Ej9 ej8.cpp)
 add_executable(Ej9_2 ej9.cpp)
+add_executable(Ej6 ej6.cpp
+        contactos.h)
+add_executable(Ej7 ej7.cpp
+        Estudiante.h)

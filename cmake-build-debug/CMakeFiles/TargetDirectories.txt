@@ -5,5 +5,7 @@ C:/Users/Facub/OneDrive/Escritorio/facu/u2-listas-facundo-bruna-2318904/cmake-bu
 C:/Users/Facub/OneDrive/Escritorio/facu/u2-listas-facundo-bruna-2318904/cmake-build-debug/CMakeFiles/Ej5.dir
 C:/Users/Facub/OneDrive/Escritorio/facu/u2-listas-facundo-bruna-2318904/cmake-build-debug/CMakeFiles/Ej9.dir
 C:/Users/Facub/OneDrive/Escritorio/facu/u2-listas-facundo-bruna-2318904/cmake-build-debug/CMakeFiles/Ej9_2.dir
+C:/Users/Facub/OneDrive/Escritorio/facu/u2-listas-facundo-bruna-2318904/cmake-build-debug/CMakeFiles/Ej6.dir
+C:/Users/Facub/OneDrive/Escritorio/facu/u2-listas-facundo-bruna-2318904/cmake-build-debug/CMakeFiles/Ej7.dir
 C:/Users/Facub/OneDrive/Escritorio/facu/u2-listas-facundo-bruna-2318904/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/Facub/OneDrive/Escritorio/facu/u2-listas-facundo-bruna-2318904/cmake-build-debug/CMakeFiles/rebuild_cache.dir
